@@ -64,4 +64,4 @@ sessionInfo()
 
 ## Licencia
 
-Código bajo licencia MIT. Resultados y figuras bajo CC BY 4.0.
+Código bajo licencia MIT
